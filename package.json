@@ -1,0 +1,20 @@
+{
+  "name": "promise-split",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["promise", "async", "await"],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keegan-w/promise-split.git"
+  },
+  "author": "Keegan Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keegan-w/promise-split/issues"
+  },
+  "homepage": "https://github.com/keegan-w/promise-split#readme"
+}
