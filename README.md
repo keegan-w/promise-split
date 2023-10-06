@@ -1,7 +1,7 @@
 # promise-split
 
 
-`promise-split` is simple utility that allows you to write clearing code when dealing with async/await. Skip the need to wrap `await` inside a try/catch block. 
+`promise-split` is simple utility that allows you to write cleaner code when working with async/await. Skip the need to wrap `await` inside a try/catch block. 
 
 
 ## Usage
