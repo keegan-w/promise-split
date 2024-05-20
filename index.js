@@ -8,4 +8,6 @@ const split = (promise) => {
         });
 };
 
-export default split;
+module.exports = {
+	split
+}
